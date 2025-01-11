@@ -38,4 +38,4 @@ Aby uruchomić aplikację Room Furnisher w środowisku Unity 3D, wykonaj poniżs
    - Podłącz Meta Quest 3 do komputera i uruchom Oculus Link.  
 
 5. **Uruchomienie aplikacji**  
-   - Aby uruchomić aplikację w goglach VR należy wyeksportuj projekt jako aplikację APK. Aby stworzyć build należy wejść w zakładkę "Files -> Build Settings". Następnie wybrać główną scenę w sekcji "Scenes in Build". Z listy dostępnych platform wybrać "Android". Przed uruchomieniem aplikacji przyciskiem "Build and Run" upewnij się że w polu "Run Device" znajduje się nazwa twojego urządzenia.
+   - Aby uruchomić aplikację w goglach VR należy wyeksportuj projekt jako aplikację APK. Aby stworzyć build należy wejść w zakładkę "Files -> Build Settings". Następnie wybrać główną scenę w sekcji "Scenes in Build". Z listy dostępnych platform wybrać "Android". Przed uruchomieniem aplikacji przyciskiem "Build and Run", upewnij się, że w polu "Run Device" znajduje się nazwa twojego urządzenia.
