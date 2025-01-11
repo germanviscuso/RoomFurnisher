@@ -1,6 +1,9 @@
 # Room Furnisher  
 Room Furnisher to zaawansowana aplikacja VR/MR stworzona w Unity 3D, która pozwala użytkownikom projektować wnętrza w wirtualnej rzeczywistości. Aplikacja wykorzystuje dane z rzeczywistego pomieszczenia do generowania jego wirtualnego modelu, który można swobodnie aranżować według własnych potrzeb i pomysłów.
 
+![testgif](https://github.com/user-attachments/assets/569d9e90-b364-4c13-8559-ba8efe41e1d4)
+
+
 ## Przygotowanie sprzętu  
 
 Aby korzystać z aplikacji Room Furnisher, należy przygotować urządzenie Meta Quest 3 i połączyć je z komputerem za pomocą Oculus Link.  
@@ -14,7 +17,7 @@ Aby korzystać z aplikacji Room Furnisher, należy przygotować urządzenie Meta
    - Zaakceptuj komunikat w goglach, który pyta o zezwolenie na przesyłanie danych.  
 
 3. **Włącz Oculus Link**  
-   - W menu głównym gogli wybierz opcję „Quick Settings” (Szybkie ustawienia), a następnie kliknij ikonę „Oculus Link”.  
+   - W menu głównym gogli wybierz opcję „Quick Settings”, a następnie kliknij ikonę „Oculus Link”.  
    - Wybierz swój komputer z listy dostępnych urządzeń.  
 
 Twoje gogle są teraz połączone z komputerem i gotowe do działania z Unity 3D.  
@@ -32,7 +35,6 @@ Aby uruchomić aplikację Room Furnisher w środowisku Unity 3D, wykonaj poniżs
 
 3. **Skonfiguruj projekt**  
    - Upewnij się, że w ustawieniach projektu ("Project Settings") w sekcji "XR Plug-in Management" jest włączona obsługa Oculus.  
-   - W zakładce "Player Settings" skonfiguruj opcję „Virtual Reality Supported”.
 
 4. **Połącz Unity z Meta Quest 3**  
    - Podłącz Meta Quest 3 do komputera i uruchom Oculus Link.  
