@@ -1,7 +1,11 @@
 # Room Furnisher  
 Room Furnisher to zaawansowana aplikacja VR/MR stworzona w Unity 3D, która pozwala użytkownikom projektować wnętrza w wirtualnej rzeczywistości. Aplikacja wykorzystuje dane z rzeczywistego pomieszczenia do generowania jego wirtualnego modelu, który można swobodnie aranżować według własnych potrzeb i pomysłów.
 
-![testgif](https://github.com/user-attachments/assets/569d9e90-b364-4c13-8559-ba8efe41e1d4)
+![demov3](https://github.com/user-attachments/assets/2fb0b112-584e-4cf1-9b6d-52db970c333b)
+![demov4](https://github.com/user-attachments/assets/0d037af4-c5d4-420d-b2ae-4e1b25383a7c)
+
+![demov1](https://github.com/user-attachments/assets/b82718bd-f8c8-4dd4-923e-c3306c744afd)
+![demov2](https://github.com/user-attachments/assets/2d4030cb-095b-45fa-8d9f-c2bc02d04960)
 
 
 ## Przygotowanie sprzętu  
