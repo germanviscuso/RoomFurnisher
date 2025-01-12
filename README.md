@@ -17,11 +17,11 @@ Aby korzystać z aplikacji Room Furnisher, należy przygotować urządzenie Meta
    Pobierz aplikację Meta Quest z [oficjalnej strony Meta](https://www.meta.com/quest/setup/) i zainstaluj ją na komputerze.  
 
 2. **Połącz Meta Quest 3 z komputerem**  
-   - Użyj kabla USB-C do połączenia gogli Meta Quest 3 z komputerem.  
+   - Użyj kabla USB-C do połączenia gogli Meta Quest 3 z komputerem;  
    - Zaakceptuj komunikat w goglach, który pyta o zezwolenie na przesyłanie danych.  
 
 3. **Włącz Oculus Link**  
-   - W menu głównym gogli wybierz opcję „Quick Settings”, a następnie kliknij ikonę „Oculus Link”.  
+   - W menu głównym gogli wybierz opcję „Quick Settings”, a następnie kliknij ikonę „Oculus Link”;
    - Wybierz swój komputer z listy dostępnych urządzeń.  
 
 Twoje gogle są teraz połączone z komputerem i gotowe do działania z Unity 3D.  
@@ -34,7 +34,7 @@ Aby uruchomić aplikację Room Furnisher w środowisku Unity 3D, wykonaj poniżs
    - Zainstaluj Unity 3D w wersji 2022.3.37f1 (zalecana wersja). Możesz ją pobrać z [Unity Hub](https://unity.com/download).  
 
 2. **Sklonuj repozytorium**  
-   - Sklonuj repozytorium z kodem źródłowym aplikacji,
+   - Sklonuj repozytorium z kodem źródłowym aplikacji;
    - Otwórz folder projektu w Unity.  
 
 3. **Skonfiguruj projekt**  
@@ -44,4 +44,9 @@ Aby uruchomić aplikację Room Furnisher w środowisku Unity 3D, wykonaj poniżs
    - Podłącz Meta Quest 3 do komputera i uruchom Oculus Link.  
 
 5. **Uruchomienie aplikacji**  
-   - Aby uruchomić aplikację w goglach VR należy wyeksportuj projekt jako aplikację APK. Aby stworzyć build należy wejść w zakładkę "Files -> Build Settings". Następnie wybrać główną scenę w sekcji "Scenes in Build". Z listy dostępnych platform wybrać "Android". Przed uruchomieniem aplikacji przyciskiem "Build and Run", upewnij się, że w polu "Run Device" znajduje się nazwa twojego urządzenia.
+Aby uruchomić aplikację na goglach VR, należy wyeksportować projekt jako plik APK. W tym celu:
+   - Otwórz zakładkę Files -> Build Settings.
+   - W sekcji Scenes in Build dodaj główną scenę projektu.
+   - Z listy dostępnych platform wybierz Android.
+   - Upewnij się, że w polu Run Device znajduje się nazwa Twojego urządzenia.
+   - Na koniec kliknij przycisk Build and Run, aby wygenerować i uruchomić aplikację na podłączonych goglach VR.
