@@ -278,6 +278,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   GlobalID: 
   _objectControllers: []
+  ShowSettings: 0
 --- !u!114 &126371916570958322
 MonoBehaviour:
   m_ObjectHideFlags: 0
