@@ -142,6 +142,10 @@ PlayerSettings:
   bundleVersion: 0.1
   preloadedAssets:
   - {fileID: 11400000, guid: b0319357bafc5ef4f91d0d7ccf789346, type: 2}
+  - {fileID: -1738071909308339324, guid: af5875bd78cbcd644ae7f26ce4e35eea, type: 2}
+  - {fileID: 11400000, guid: 64d3ffbff98f157439c57e23e9566af6, type: 2}
+  - {fileID: 11400000, guid: 48f029bb5bdf8cb479077bae07d3fcdc, type: 2}
+  - {fileID: 11400000, guid: 90c80b57c6a741a4288656fdb9caa7a4, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -413,7 +417,7 @@ PlayerSettings:
   - m_BuildTarget: iOSSupport
     m_GraphicsJobs: 0
   - m_BuildTarget: WindowsStandaloneSupport
-    m_GraphicsJobs: 1
+    m_GraphicsJobs: 0
   - m_BuildTarget: XboxOnePlayer
     m_GraphicsJobs: 1
   - m_BuildTarget: LuminSupport
